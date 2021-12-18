@@ -1,0 +1,314 @@
+*{
+	margin: 0;
+	padding : 0;
+}
+.container{
+	background:#252323;
+	height:3300px;
+	width:1200px;
+	margin:auto;
+}
+a{
+	text-decoration: none;
+	color :#FFFFFF;
+}
+a:hover{
+color:#adad90;
+}
+/*menu*/
+.menu{
+	margin: 0px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.menu ul li {
+	display : inline-block;
+	padding : 10px 20px;
+	text-transform: uppercase;
+}
+.menu .search-txt{
+    position: absolute;
+    top: 100px;
+    left: 690px;
+    border-radius: 40px 40px 40px 40px;
+    align-content: center;
+    padding : 10px;
+    display: inline-block;
+    width: 146px;
+	background:#ffffff;
+	
+}
+.home{
+ color:#30CDBF;	
+}
+/*slice*/
+.slice img{
+	margin: 50px 58px 10px 40px ;
+}
+.slice{
+	margin-top: 30px;
+	position: relative;
+}
+.slice .left {
+	width:400px;
+	position: absolute;
+	left:75px;
+	top:250px;
+}
+.slice .left p{
+	color:#AFAEAE;
+}
+
+.slice .left h2{
+	font-size: 40px;
+	color:#2F2C2C;
+	 	
+}
+ .btn{
+	padding: 10px 15px;
+	background-color:#736F6F;
+	border-radius: 30px;
+	font-size:15px;
+	cursor:pointer;
+	border:none;
+	margin-top:20px;
+	 
+}
+.slice .right {
+	width:400px;
+	position: absolute;
+	right:75px;
+	top:450px;
+}
+.slice .right p{
+	color:#AFAEAE;
+}
+
+.slice .right h2{
+	font-size: 40px;
+	color:#2F2C2C;
+	 	
+}
+
+/*slice1*/
+#title{
+	color:#FFFEFE;
+	margin-top: 90px;
+	margin-bottom: 15px  ;
+	font-size: 25px;
+	text-align: center;
+	
+}
+.slice1 .sp {
+	width: 285px;
+	margin-left: 100px;
+	overflow:hidden;
+}
+.slice1 .sp:first-child {
+	margin-left: 60px;	
+}
+
+.slice1 .ten {
+	width: 260px;
+	margin-left: 30px;
+	float:left;
+	overflow:hidden;
+}
+.slice1 .ten:first-child {
+	margin-left: 30px;	
+}
+.slice1 .ten{
+	color:#F9F6F6	;
+	text-align: center;
+	margin-top:-3px;
+	
+}
+.slice1 .pr{
+	width:285px;
+	text-align: center;
+	float:left;
+	margin-left:10px;
+	font-size:25px;
+	color:#8D2123;
+	font-weight:bold;
+}
+ .pr span{
+	font-size:19px;
+}
+.slice1 .buy{
+	width:285px;
+	float:left;
+	align-content: center;
+	margin-left: 10px;
+	text-align: center;
+	
+}
+ .btn:hover{
+	color:	#adad90;
+}
+ .slice1 a{
+	 text-align: center;
+	 font-size:30px;
+	 margin-left: 550px;
+}
+
+.slice2 #title1{
+	color:#11AEAC;
+	margin-top: 60px;
+	margin-bottom: 0px  ;
+	font-size: 40px;
+	font-style: italic;
+	text-align: center;
+}
+.slice2 #title2{
+	color:#11AEAC;
+	margin-top: 10px;
+	margin-bottom: 0px  ;
+	font-size: 20px;
+	font-style: bold;
+	text-align: center;
+}
+
+.slice2 ul li {
+	display : inline-block;
+	padding : 10px 0px;
+	text-transform: uppercase;
+	margin-left: 190px;
+	text-align: center;
+	font-size:25px;
+	margin-bottom: 20px;
+}
+.slice2 a:hover{
+	color:#11AEAC;
+	
+}
+
+.slice2 .sp1 {
+	
+	margin-left: 0px;
+	overflow:hidden;
+}
+.slice2 .sp1:first-child {
+	margin-left: 9px;	
+}
+
+
+.slice2 .left {
+	width:400px;
+	position:absolute;
+	left:170px;
+	top:1600px;
+}
+.slice2 .left p{
+	color:#FFFFFF;
+}
+
+.slice2 .left h2{
+	font-size: 40px;
+	color:#ffffff;
+	 	
+}
+ 
+.slice2 .right {
+	width:400px;
+	position:absolute;
+	right:175px;
+	top:1900px;
+}
+.slice2 .right p{
+	color:#ffffff;
+}
+
+.slice2 .right h2{
+	font-size: 40px;
+	color:#ffffff;
+	 	
+}
+.slice3 a:hover{
+	color:#E655BA;
+}
+.slice3{
+	margin: 0px;
+	margin-bottom: 20px;
+	text-align: center;
+	
+}
+.slice3 #title1{
+	color:#E655BA;
+	font-size:40px;
+	margin-top: 90px;	
+}
+
+.slice3 #title2{
+	color:#E655BA;
+	font-size:20px;
+	margin-top: 10px;	
+}
+.slice3  ul li {
+	display : inline-block;
+	padding : 10px 20px;
+	text-transform: uppercase;
+}
+
+.slice3 .pr{
+	width:200px;
+	text-align: center;
+	float:left;
+	margin-left:140px;
+	font-size:25px;
+	color:#8D2123;
+	font-weight:bold;
+}
+ .pr span{
+	font-size:19px;
+}
+ 
+.slice3 .buy{
+	width:200px;
+	float:left;
+	align-content: center;
+	margin-left: 140px;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+/*footer*/
+
+.about{
+	width:500px;
+	float:left;
+	color:#FFFDFD;
+}
+.about #trai{
+	width:70px;
+	height:38px;
+	margin-right: 20px;
+	float:left;
+}
+.about #phai{
+	width:300px;
+	float:left;
+	margin-left:70px;
+	margin-top:20px;
+	
+}
+.footer .about h2{
+margin-left:40px;	
+}
+
+.contact{
+	width:300px;
+	float:left;	
+	color:#FFFDFD;
+	margin-top:10px;
+}
+.footer .contact p{
+	margin-top:20px;
+}
+
+.link{
+	width:300px;
+	float:left;	
+	color:#FFFDFD;
+	margin-top:70px;
+}
