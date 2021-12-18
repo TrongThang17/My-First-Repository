@@ -1,0 +1,446 @@
+
+*{
+	margin: 0;
+	padding : 0;
+}
+.container{
+	background:#252323;
+	height:2750px;
+	width:1200px;
+	margin:auto;
+}
+.header a{
+	text-decoration: none;
+	color :#FFFFFF;
+}
+.header a:hover{
+color:#adad90;
+}
+.header .Shorts{
+	color:#30CDBF;	
+}
+.header1 .jeans{
+color:#30CDBF;	
+}
+
+.header1 .dui{
+color:#30CDBF;
+}
+
+.header1 .au{
+	color:#30CDBF;
+}
+
+
+/*menu*/
+.menu{
+	margin: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+.menu ul li {
+	display : inline-block;
+	padding : 10px 20px;
+	text-transform: uppercase;
+}
+
+.header1{
+	margin: 0px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.header1 ul li {
+	display : inline-block;
+	padding : 10px 20px;
+	text-transform: uppercase;
+}
+
+.header1 a{
+	text-decoration: none;
+	color :#ffffff;
+	font-size:20px;
+	margin-top:20px;
+	margin-left:60px;
+}
+.header1 a:hover{
+color:#30CDBF;	
+}
+.header1 p{
+	color:#30CDBF;	
+	font-size:30px;
+	margin-bottom: 20px;
+	margin-left: 70px;
+}
+
+.banner .sp {
+	width: 285px;
+	margin-left: 100px;
+	overflow:hidden;
+}
+.banner .sp:first-child {
+	margin-left: 60px;	
+}
+
+.banner .ten {
+	width: 260px;
+	margin-left: 30px;
+	float:left;
+	overflow:hidden;
+}
+.banner .ten:first-child {
+	margin-left: 30px;	
+}
+.banner .ten{
+	color:#ffffff;	;
+	text-align: center;
+	margin-top:-3px;
+	
+}
+.banner .pr{
+	width:285px;
+	text-align: center;
+	float:left;
+	margin-left:10px;
+	font-size:25px;
+	color:#8D2123;
+	font-weight:bold;
+}
+ .pr span{
+	font-size:19px;
+}
+.banner .buy{
+	width:285px;
+	float:left;
+	align-content: center;
+	margin-left: 10px;
+	text-align: center;
+	
+}
+ .banner .btn:hover{
+	color:	#adad90;
+}
+.banner .btn{
+	padding: 10px 15px;
+	background-color:#736F6F;
+	border-radius: 30px;
+	font-size:15px;
+	cursor:pointer;
+	border:none;
+	margin-top:20px;
+	margin-bottom:40px; 
+	 
+}
+.banner a{
+	 text-align: center;
+	 font-size:30px;
+	 margin-left: 550px;
+}
+
+/*banner1*/
+
+.banner1 .sp {
+	width: 285px;
+	margin-left: 100px;
+	overflow:hidden;
+}
+.banner1 .sp:first-child {
+	margin-left: 60px;	
+}
+
+.banner1 .ten {
+	width: 260px;
+	margin-left: 30px;
+	float:left;
+	overflow:hidden;
+}
+.banner1 .ten:first-child {
+	margin-left: 30px;	
+}
+.banner1 .ten{
+	color:#ffffff;	;
+	text-align: center;
+	margin-top:-3px;
+	
+}
+.banner1 .pr{
+	width:285px;
+	text-align: center;
+	float:left;
+	margin-left:10px;
+	font-size:25px;
+	color:#8D2123;
+	font-weight:bold;
+}
+ .pr span{
+	font-size:19px;
+}
+.banner1 .buy{
+	width:285px;
+	float:left;
+	align-content: center;
+	margin-left: 10px;
+	text-align: center;
+	
+}
+ .banner1 .btn:hover{
+	color:	#adad90;
+}
+.banner1 .btn{
+	padding: 10px 15px;
+	background-color:#736F6F;
+	border-radius: 30px;
+	font-size:15px;
+	cursor:pointer;
+	border:none;
+	margin-top:20px;
+	margin-bottom: 40px;
+}
+.banner1 a{
+	 text-align: center;
+	 font-size:30px;
+	 margin-left: 550px;
+}
+
+
+/*banner2*/
+
+.banner2 .sp {
+	width: 285px;
+	margin-left: 100px;
+	overflow:hidden;
+}
+.banner2 .sp:first-child {
+	margin-left: 60px;	
+}
+
+.banner2 .ten {
+	width: 260px;
+	margin-left: 30px;
+	float:left;
+	overflow:hidden;
+}
+.banner2 .ten:first-child {
+	margin-left: 30px;	
+}
+.banner2 .ten{
+	color:#ffffff;	;
+	text-align: center;
+	margin-top:-3px;
+	
+}
+.banner2 .pr{
+	width:285px;
+	text-align: center;
+	float:left;
+	margin-left:10px;
+	font-size:25px;
+	color:#8D2123;
+	font-weight:bold;
+}
+ .pr span{
+	font-size:19px;
+}
+.banner2 .buy{
+	width:285px;
+	float:left;
+	align-content: center;
+	margin-left: 10px;
+	text-align: center;
+	
+	
+}
+ .banner2 .btn:hover{
+	color:	#adad90;
+}
+.banner2 .btn{
+	padding: 10px 15px;
+	background-color:#736F6F;
+	border-radius: 30px;
+	font-size:15px;
+	cursor:pointer;
+	border:none;
+	margin-top:20px;
+	margin-bottom: 70px;
+}
+.banner2 a{
+	 text-align: center;
+	 font-size:30px;
+	 margin-left: 550px;
+}
+
+
+/*banner3*/
+
+.banner3 .sp {
+	width: 285px;
+	margin-left: 100px;
+	overflow:hidden;
+}
+.banner3 .sp:first-child {
+	margin-left: 60px;	
+}
+
+.banner3 .ten {
+	width: 260px;
+	margin-left: 30px;
+	float:left;
+	overflow:hidden;
+}
+.banner3 .ten:first-child {
+	margin-left: 30px;	
+}
+.banner3 .ten{
+	color:#ffffff;	;
+	text-align: center;
+	margin-top:-3px;
+	
+}
+.banner3 .pr{
+	width:285px;
+	text-align: center;
+	float:left;
+	margin-left:10px;
+	font-size:25px;
+	color:#8D2123;
+	font-weight:bold;
+}
+ .pr span{
+	font-size:19px;
+}
+.banner3 .buy{
+	width:285px;
+	float:left;
+	align-content: center;
+	margin-left: 10px;
+	text-align: center;
+	
+}
+ .banner3 .btn:hover{
+	color:	#adad90;
+}
+.banner3 .btn{
+	padding: 10px 15px;
+	background-color:#736F6F;
+	border-radius: 30px;
+	font-size:15px;
+	cursor:pointer;
+	border:none;
+	margin-top:20px;
+	margin-bottom: 40px;
+}
+.banner3 a{
+	 text-align: center;
+	 font-size:30px;
+	 margin-left: 550px;
+}
+
+
+/*banner4*/
+
+.banner4 .sp {
+	width: 285px;
+	margin-left: 100px;
+	overflow:hidden;
+}
+.banner4 .sp:first-child {
+	margin-left: 60px;	
+}
+
+.banner4 .ten {
+	width: 260px;
+	margin-left: 30px;
+	float:left;
+	overflow:hidden;
+}
+.banner4 .ten:first-child {
+	margin-left: 30px;	
+}
+.banner4 .ten{
+	color:#ffffff;	;
+	text-align: center;
+	margin-top:-3px;
+	
+}
+.banner4 .pr{
+	width:285px;
+	text-align: center;
+	float:left;
+	margin-left:10px;
+	font-size:25px;
+	color:#8D2123;
+	font-weight:bold;
+}
+ .pr span{
+	font-size:19px;
+}
+.banner4 .buy{
+	width:285px;
+	float:left;
+	align-content: center;
+	margin-left: 10px;
+	text-align: center;
+	
+	
+}
+ .banner4 .btn:hover{
+	color:	#adad90;
+}
+.banner4 .btn{
+	padding: 10px 15px;
+	background-color:#736F6F;
+	border-radius: 30px;
+	font-size:15px;
+	cursor:pointer;
+	border:none;
+	margin-top:20px;
+	margin-bottom: 70px;
+}
+.banner4 a{
+	 text-align: center;
+	 font-size:30px;
+	 margin-left: 550px;
+}
+/*footer*/
+
+.about{
+	width:500px;
+	float:left;
+	color:#FFFDFD;
+}
+.about #trai{
+	width:70px;
+	height:38px;
+	margin-right: 20px;
+	float:left;
+}
+.about #phai{
+	width:300px;
+	float:left;
+	margin-left:70px;
+	margin-top:20px;
+	
+}
+.footer .about h2{
+margin-left:40px;	
+}
+
+.contact{
+	width:300px;
+	float:left;	
+	color:#FFFDFD;
+	margin-top:10px;
+}
+.footer .contact p{
+	margin-top:20px;
+}
+
+.link{
+	width:300px;
+	float:left;	
+	color:#FFFDFD;
+	margin-top:70px;
+}
+
+
+
+
